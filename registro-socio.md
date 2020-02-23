@@ -13,8 +13,12 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 <form id="fs-frm" name="Registro de socio" accept-charset="utf-8" action="https://formspree.io/xayjnann" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="forull-name">Nombre</label>
-    <input type="text" name="nombre" id="nombre" placeholder="Nombre completo" required="">       
+    <input type="text" name="nombre" id="nombre" placeholder="Nombre completo" required="">
+    <label for="forull-surname">Apellidos</label>
+    <input type="text" name="apellidos" id="nombre" placeholder="Apellidos" required="">
+    <br>
     <label for="email-address">Email</label>
+    <br>
     <input type="email" name="_replyto" id="email" placeholder="email@domain.tld" required="">       
     <label for="street-address">Dirección</label>
     <input type="text" name="calle" id="calle" placeholder="Calle/avenida/paseo..." required="">       
@@ -65,7 +69,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
        <option value="Marratxí">Marratxí</option>
        <option value="Montuïri">Montuïri</option>
        <option value="Muro">Muro</option>
-       <option value="Palma">Palma</option>
+       <option value="Palma de Mallorca">Palma</option>
        <option value="Petra">Petra</option>
        <option value="Pollença">Pollença</option>
        <option value="Porreres">Porreres</option>
@@ -91,12 +95,13 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
        <option value="Valldemossa">Valldemossa</option>
        <option value="Vilafranca de Bonany">Vilafranca de Bonany</option>
       </select>
-      <input type="text" name="codigo-postal" placeholder="07___" required="">       
+      <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
     </fieldset>
     <label for="note">Comentarios</label>
-    <textarea rows="2" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
+    <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
   </fieldset>
+  <br>
   <input type="submit" value="Enviar">
 </form>
 
