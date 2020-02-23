@@ -1,8 +1,14 @@
 <img src="./images/RobotRetro.png" width="250" align="left" />
 
-
 # Makers de Mallorca, necesita tu ayuda para continuar con nuestras actividad
-Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar este formulario. 
+Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el formulario. 
+
+## Ventajas de ser socio
+* Derecho a voto en las decisiones tomadas en Junta General Anual de Socios
+* Preferencias en la participación de actividades
+* Descuentos en los talleres
+* Descuento en la afiliación al FabLab de Mallorca
+* ¡Todo ello por 10€ al año!
 
 <form
   action="https://formspree.io/xayjnann"
@@ -42,13 +48,6 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar este
 
   <button type="submit">Registrarse</button>
 </form>
-
-## Ventajas de ser socio
-* Derecho a voto en las decisiones tomadas en Junta General Anual de Socios
-* Preferencias en la participación de actividades
-* Descuentos en los talleres
-* Descuento en la afiliación al FabLab de Mallorca
-* ¡Todo ello por 10€ al año!
 
 ## No te olvides de hacer el pago
 Se puede hacer el pago por 
