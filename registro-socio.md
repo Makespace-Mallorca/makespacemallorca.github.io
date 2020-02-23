@@ -18,8 +18,8 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <input type="text" name="apellidos" id="nombre" placeholder="Apellidos" required="">
     <br>
     <label for="email-address">Email</label>
-    <br>
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
+    <br>
     <fieldset class="direccion">
       <legend>Dirección</legend>
       <input type="text" name="calle" id="calle" placeholder="Calle/avenida/paseo..." required="">       
@@ -104,7 +104,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
   <input type="submit" value="Enviar">
 </form>
 
-
+[Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html
 ## No te olvides de hacer el pago
 Se puede hacer el pago por 
 * [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
