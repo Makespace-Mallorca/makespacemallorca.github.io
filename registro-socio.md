@@ -1,4 +1,4 @@
-<img src="./images/RobotRetro.png" width="250" align="left" />
+<img src="./images/RobotRetro.png" width="250" align="right" />
 
 # Makers de Mallorca, necesita tu ayuda para continuar con nuestras actividad
 Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el formulario. 
