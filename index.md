@@ -1,10 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
 # Un poco de historia
 En agosto de 2018 un pequeño grupo con inquietudes tecnológicas comunes y una gran afición al _hazlo tu mismo_. Arrancó el grupo de [MeetUp Makespace Mallorca](https://www.meetup.com/es-ES/Meetup-de-Startups-de-tecnologia-en-Palma/?_locale=es-ES) que no ha parado sus actividades hasta la fecha. 
 En torno a estos encuentros, ha ido creciendo una Comunidad que quiere ser más colaborativa y con más recursos. Por lo que, bajo la denominación de **Makers Mallorca, Asociación de investigación y divulgación tecnológica**, se constituyó en 2019 esta asociación sin ánimo de lucro para facilitar proyectos y objetivos comunes de la Comunidad Maker de nuestra isla. 
@@ -23,12 +16,12 @@ Para saber más
 La Asociación ha nacido junto al [FabLab de Mallorca](http://fablabmallorca.com/) y coexiste en sus actividades. Los socios tienen ventajas en la afiliación y uso del espacio. El espacio te ofrece herramientas como cortadoras laser, impresoras 3D, CNC… La solución cuando ya no caben tus proyectos en tu casa y te estás gastando más en máquinas que en proyectos.
 Estamos formado una comunidad comprometida con el movimiento Open Hardware y Software en la que compartimos conocimientos y experiencias.
 
+<img src="./images/RobotRetro.png" width="50" align="right" />
 # Únete y participa
 ## Asociate
 10€ / año
 Makers de Mallorca, necesita tu ayuda para continuar con nuestros objetivos y actividades. 
-Pulsa este link para acceder a un rápido formulario:
-[registro-socio](./registro-socio.html).
+Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.html).
 
 ## Participa
 Aquí nos encontrarás y también puedes participar libremente en debates, dudas y sugerencias:
@@ -44,3 +37,5 @@ https://github.com/Makespace-Mallorca
 # Próximas actividades y talleres
 Síguenos en MeetUp.
 https://www.meetup.com/es-ES/makespace-mallorca/
+
+[Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html
