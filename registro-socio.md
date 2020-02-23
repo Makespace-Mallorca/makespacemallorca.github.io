@@ -8,7 +8,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 * Preferencias en la participación de actividades
 * Descuentos en los talleres
 * Descuento en la afiliación al FabLab de Mallorca
-* ¡Todo ello por 10€ al año!
+* **¡Todo ello por 10€ al año!**
 
 <form id="fs-frm" name="Registro de socio" accept-charset="utf-8" action="https://formspree.io/xayjnann" method="POST">
   <fieldset id="fs-frm-inputs">
@@ -19,14 +19,13 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <br>
     <label for="email-address">Email</label>
     <br>
-    <input type="email" name="_replyto" id="email" placeholder="email@domain.tld" required="">       
-    <label for="street-address">Dirección</label>
-    <input type="text" name="calle" id="calle" placeholder="Calle/avenida/paseo..." required="">       
-    <fieldset class="localidad">
-      <legend>Localidad</legend>
+    <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
+    <fieldset class="direccion">
+      <legend>Dirección</legend>
+      <input type="text" name="calle" id="calle" placeholder="Calle/avenida/paseo..." required="">       
       <input type="text" name="localidad" placeholder="Localidad">
       <select name="Municipio" required="">       
-        <option value="Select" selected=" disabled=">Municipio</option>
+       <option value="Select" selected=" disabled=">Municipio</option>
        <option value="Alaior">Alaior</option>
        <option value="Alaró">Alaró</option>
        <option value="Alcúdia">Alcúdia</option>
@@ -105,9 +104,10 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
   <input type="submit" value="Enviar">
 </form>
 
+
 ## No te olvides de hacer el pago
 Se puede hacer el pago por 
-* [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utiliza el mismo email puesto en el formulario anterior.
+* [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES27205xxxxxx con la referencia de “Socio “ + tu nombre.
 
 
