@@ -110,4 +110,5 @@ Se puede hacer el pago por
 * [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES27205xxxxxx con la referencia de “Socio “ + tu nombre.
 
+# ¡¡GRACIAS POR TU COLABORACIÓN!!
 
