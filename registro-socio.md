@@ -12,6 +12,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar este
     Nombre:
     <input type="text" name="nombre">
   </label>
+  <br>
   <label>
     Apellidos:
     <input type="text" name="apellidos">
@@ -21,6 +22,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar este
     Teléfono:
     <input type="text" name="Teléfono">
   </label>
+  <br>
   <label>
     Tu email:
     <input type="text" name="email">
@@ -30,6 +32,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar este
     Dirección:
     <textarea name="direccion"></textarea>
   </label>
+  <br>
   <label>
     Comentarios:
     <textarea name="comentarios"></textarea>
