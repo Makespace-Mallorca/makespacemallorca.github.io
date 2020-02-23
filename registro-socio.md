@@ -20,6 +20,10 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <label for="email-address">Email</label>
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
     <br>
+     <br>
+    <label for="telefono">Teléfono</label>
+    <input type="telefono" name="telefono" id="telefono" placeholder="Teléfono" required="">       
+    <br>
     <fieldset class="direccion">
       <legend>Dirección</legend>
       <input type="text" name="calle" id="calle" placeholder="Calle/avenida/paseo..." required="">       
