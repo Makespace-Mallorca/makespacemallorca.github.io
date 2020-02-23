@@ -8,7 +8,9 @@ Para organizar charlas y talleres. Tener un punto de encuentro y traer a Mallorc
 Ahora tenemos un nuevo espacio de fabricación digital y un grupo entusiasta del movimiento Maker con muchos proyectos en marcha. La perfecta combinación para hacer proyectos colaborativos
 
 ```text
-Socializar y compartir tus proyectos los pueden llevar dónde nunca has imaginado. Encontrarás personas entusiastas con similares inquietudes tecnologías que ayudarán a que todo funcione e incluso mejor de lo esperado.
+Socializar y compartir tus proyectos los pueden llevar dónde nunca has imaginado.
+Encontrarás personas entusiastas con similares inquietudes tecnologías que ayudarán
+a que todo funcione e incluso mejor de lo esperado.
 ```
 
 **Para saber más**  
@@ -19,24 +21,23 @@ La Asociación ha nacido junto al [FabLab de Mallorca](http://fablabmallorca.com
 Estamos formado una comunidad comprometida con el movimiento Open Hardware y Software en la que compartimos conocimientos y experiencias.
 
 # Únete y participa
-<img src="./images/RobotRetro.png" width="100" align="left" />
+<img src="./images/logo-telegram.PNG" width="50" />
 ## Asociate
 Makers de Mallorca, necesita tu ayuda para continuar con nuestros objetivos y actividades. 
 Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.html).
 
 ## Participa
 Aquí nos encontrarás y también puedes participar libremente en debates, dudas y sugerencias:
-Telegram: 
-https://t.me/joinchat/GA2cyBIjeJ5Zht2B9WhYKQ
-Twitter
-http://www.twitter.com/MakespacePMI
-Mail:
-makespace.mallorca@gmail.com
-GitHub:
-https://github.com/Makespace-Mallorca
+
+<a href="https://t.me/joinchat/GA2cyBIjeJ5Zht2B9WhYKQ"><img src="./images/logo-telegram.png" width="80"/>
+<a href="http://www.twitter.com/MakespacePMI"><img src="./images/logo-twitter.png" width="80"/>
+<a href="mailto:makespace.mallorca@gmail.com"><img src="./images/logo-mail.png" width="80"/>
 
 # Próximas actividades y talleres
+
 Síguenos en MeetUp.
-https://www.meetup.com/es-ES/makespace-mallorca/
+<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/logo-meetup.png" width="80"/>
+
+
 
 [Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html
