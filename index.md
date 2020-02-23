@@ -21,7 +21,7 @@ La Asociación ha nacido junto al [FabLab de Mallorca](http://fablabmallorca.com
 Estamos formado una comunidad comprometida con el movimiento Open Hardware y Software en la que compartimos conocimientos y experiencias.
 
 # Únete y participa
-<img src="./images/logo-telegram.PNG" width="50" />
+<a href="./registro-socio.html"><img src="./images/RobotRetro.png" width="100" align="left" />
 ## Asociate
 Makers de Mallorca, necesita tu ayuda para continuar con nuestros objetivos y actividades. 
 Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.html).
@@ -40,4 +40,4 @@ Síguenos en MeetUp.
 
 
 
-[Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html
+[Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html)
