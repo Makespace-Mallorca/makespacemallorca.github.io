@@ -103,13 +103,13 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <label for="note">Comentarios</label>
     <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
+    <br>
+    <input type="submit" value="Enviar">
+    <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
   </fieldset>
-  <br>
-  <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
-  <input type="submit" value="Enviar">
 </form>
 
-[Consulta aquí nuestra Política de Privacidad](./politica-de-privacidad-y-cookies.html
+[Consulta aquí nuestra Política de Privacidad](./politica-de-privacidad-y-cookies.html)
 ## No te olvides de hacer el pago
 Se puede hacer el pago por 
 * [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
