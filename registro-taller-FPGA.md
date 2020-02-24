@@ -6,7 +6,7 @@ Para este evento vendrá a Mallorca Julian Caro Linares. Un experto conocedor y 
 Este evento está organizado por la Asociación de Makers Mallorca y está orientado a todo aquel que disfrute de la electrónica, la programación o participe del movimiento ‘Do It Yourself’.
 Curioseando en la historia aprenderemos a utilizar una tecnología electrónica que va más allá de las capacidades de la mayoría de los micro-procesadores como Arduino o ESPx. Así podrás añadir a tu proyecto cosas como el tratamiento de imágenes, de señales, ejecución de aplicaciones en multihilo real o simulación de procesadores.
 
-<a href="https://www.google.com/maps/place/39°34'36.5"N+2°38'22.1"E/@39.576805,2.639457,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d39.576805!4d2.639457"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/TallerFPGA_Coordenadas.PNG" width="300" align="right" />
+<a href="https://www.google.com/maps/search/?api=1&query=39.576805%2C2.639457"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/TallerFPGA_Coordenadas.PNG" width="300" align="right" />
 ## Agenda:
 09:00 **Recepción** de asistentes en el Mallorca FabLab
 <br>
@@ -91,7 +91,7 @@ Curioseando en la historia aprenderemos a utilizar una tecnología electrónica 
        <option value="Marratxí">Marratxí</option>
        <option value="Montuïri">Montuïri</option>
        <option value="Muro">Muro</option>
-       <option value="Palma de Mallorca">Palma</option>
+       <option value="Palma">Palma de Mallorca</option>
        <option value="Petra">Petra</option>
        <option value="Pollença">Pollença</option>
        <option value="Porreres">Porreres</option>
