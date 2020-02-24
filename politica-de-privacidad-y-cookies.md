@@ -90,3 +90,5 @@ Este sitio web ha sido revisado y probado para que funcione correctamente. En pr
 **LEY APLICABLE Y JURISDICCIÓN**
 
 Para la resolución de todas las controversias o cuestiones relacionadas con el presente sitio web o de las actividades en él desarrolladas, será de aplicación la legislación española, a la que se someten expresamente las partes, siendo competentes para la resolución de todos los conflictos derivados o relacionados con su uso los Juzgados y Tribunales más cercanos a Palma de Mallorca.
+
+[Volver a la página principal de Makers de Mallorca](http://makespacemallorca.org)
