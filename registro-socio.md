@@ -20,7 +20,6 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <label for="email-address">Email</label>
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
     <br>
-     <br>
     <label for="telefono">Teléfono</label>
     <input type="telefono" name="telefono" id="telefono" placeholder="Teléfono" required="">       
     <br>
@@ -113,7 +112,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 ## No te olvides de hacer el pago
 Se puede hacer el pago por 
 * [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
-* por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES27205xxxxxx con la referencia de “Socio “ + tu nombre.
+* por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Socio “ + tu nombre.
 
 # ¡¡GRACIAS POR TU COLABORACIÓN!!
 
