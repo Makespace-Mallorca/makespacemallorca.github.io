@@ -116,3 +116,4 @@ Se puede hacer el pago de los 10€ por:
 
 # ¡¡GRACIAS POR TU COLABORACIÓN!!
 
+[Volver a la página principal de Makers de Mallorca](http://makespacemallorca.org)
