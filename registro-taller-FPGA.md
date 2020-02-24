@@ -131,7 +131,8 @@ Curioseando en la historia aprenderemos a utilizar una tecnología electrónica 
 
 ## No te olvides de hacer el pago de los 28€
 Puedes hacerlo de la manera que te sea más cómoda:
-* [Pulsa aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
+<img src="./images/CapturePayPal.PNG" width="100" aling = "right"/>
+* [Pulsa aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Taller FPGA “ + tu nombre.
 
 <img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017877.jpeg" width="400" />
@@ -140,3 +141,7 @@ Puedes hacerlo de la manera que te sea más cómoda:
 * Si por cualquier circunstancia el evento es cancelado. El importe de la cuota de inscripción será completamente reembolsado.
 * Aunque habrá placas prestadas por la comunidad para realizar el taller, te recomendamos que te traigas tu propia placa Icezum Alhambra si la tienes.
 * Te será muy útil traer tu portáti. Recuerda que es un taller de programación ;-)
+
+# ¡GRACIAS POR PARTICIPAR!
+
+[Volver a la página principal de Makers de Mallorca](http://makespacemallorca.org)
