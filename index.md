@@ -5,6 +5,7 @@ En torno a estos encuentros, ha ido creciendo una Comunidad que quiere ser más 
 
 # ¿Por qué existimos?
 Como decía aquel programa ochentero de la Bola de Cristal: "Solo no puedes, con amigos sí". Aunque tenemos muchos recursos on-line para avanzar en los proyectos. Nada es mejor que la experiencia cercada de quien te puede enseñar en directo cómo ajustar una impresora 3D o programar un Arduino. 
+<br>
 Para organizar charlas y talleres. Tener un punto de encuentro y traer a Mallorca personas y eventos que antes teníamos que ir a ver. 
 Ahora tenemos un nuevo espacio de fabricación digital y un grupo entusiasta del movimiento Maker con muchos proyectos en marcha. La perfecta combinación para hacer proyectos colaborativos
 
@@ -22,9 +23,12 @@ La Asociación ha nacido junto al [FabLab de Mallorca](http://fablabmallorca.com
 Estamos formado una comunidad comprometida con el movimiento Open Hardware y Software en la que compartimos conocimientos y experiencias.
 
 # Próximas actividades y talleres
-## Taller FPGA con Julian Caro
 <a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
-Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
+
+## Taller FPGA con Julian Caro
+Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
+<br>
+Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
 [¿Te lo vas a perder? Inscríbete aquí](./registro-taller-FPGA.html).
 
 Síguenos en MeetUp, y estarás al día de nuestras actividades.
