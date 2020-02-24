@@ -6,16 +6,24 @@ Para este evento vendrá a Mallorca Julian Caro Linares. Un experto conocedor y 
 Este evento está organizado por la Asociación de Makers Mallorca y está orientado a todo aquel que disfrute de la electrónica, la programación o participe del movimiento ‘Do It Yourself’.
 Curioseando en la historia aprenderemos a utilizar una tecnología electrónica que va más allá de las capacidades de la mayoría de los micro-procesadores como Arduino o ESPx. Así podrás añadir a tu proyecto cosas como el tratamiento de imágenes, de señales, ejecución de aplicaciones en multihilo real o simulación de procesadores.
 
-<a href="https://www.google.com/maps/place/39°34'36.5"N+2°38'22.1"E/@39.576805,2.639457,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d39.576805!4d2.639457><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/TallerFPGA_Coordenadas.PNG" width="300" align="right" />
+<a href="https://www.google.com/maps/place/39°34'36.5"N+2°38'22.1"E/@39.576805,2.639457,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d39.576805!4d2.639457"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/TallerFPGA_Coordenadas.PNG" width="300" align="right" />
 ## Agenda:
-09:00 Recepción de asistentes en el Mallorca FabLab
-09:45 Salida hacia el Castillo Museo de San Carlos. Traslado en autocar facilitado por la organización.
-10:15 Máquina Enigma a fondo. Presentado por un historiador del Patronato del Museo. Lugar: sala de conferencias del castillo.
-10:45 La ciencia de la codificación Enigma. Presentación de Julian Caro.
-11:15 Visita a la sala de la exposición para ver la máquina original.
-11:45 Aperitivo en la cafetería del Castillo ofrecido por la organización.
-12:00 Partida al FabLab. Traslado en autocar facilitado por la organización.
-12:15 Taller FPGA con Julian Caro
+09:00 **Recepción** de asistentes en el Mallorca FabLab
+<br>
+09:45 **Traslado al Castillo Museo de San Carlos** en el autocar facilitado por la organización.
+<br>
+10:15 **Máquina Enigma a fondo**. Presentado por un historiador del Patronato del Museo. Lugar: sala de conferencias del castillo.
+<br>
+10:45 La ciencia de la codificación Enigma. **Presentación de Julian Caro**.
+<br>
+11:15 **Visita** a la sala de la exposición para ver la máquina original.
+<br>
+11:45 **Aperitivo** en la cafetería del Castillo ofrecido por la organización.
+<br>
+12:00 **Regreso al FabLab**. Traslado en autocar facilitado por la organización.
+<br>
+12:15 **Taller FPGA con Julian Caro**
+<br>
 14:30 Fin del evento.
 
 ## ¿Qué incluye el evento?
@@ -109,7 +117,6 @@ Curioseando en la historia aprenderemos a utilizar una tecnología electrónica 
        <option value="Valldemossa">Valldemossa</option>
        <option value="Vilafranca de Bonany">Vilafranca de Bonany</option>
       </select>
-      <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
     </fieldset>
     <label for="note">Comentarios</label>
     <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional y comentarios"></textarea>
@@ -124,7 +131,7 @@ Curioseando en la historia aprenderemos a utilizar una tecnología electrónica 
 
 ## No te olvides de hacer el pago de los 28€
 Puedes hacerlo de la manera que te sea más cómoda:
-* [Pusla aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
+* [Pulsa aquí para pagar con PayPal](https://www.paypal.com/myaccount/transfer/homepage?from=SUM-QuickLink). Utilizando el mismo email puesto en el formulario anterior.
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Taller FPGA “ + tu nombre.
 
 <img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017877.jpeg" width="400" />
