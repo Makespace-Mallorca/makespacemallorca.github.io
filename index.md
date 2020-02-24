@@ -23,11 +23,12 @@ Estamos formado una comunidad comprometida con el movimiento Open Hardware y Sof
 
 # Próximas actividades y talleres
 ## Taller FPGA con Julian Caro
-<a href="./registro-taller-FPGA.html><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
+<a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
 Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
 [¿Te lo vas a perder? Inscríbete aquí](./registro-taller-FPGA.html).
 
 Síguenos en MeetUp, y estarás al día de nuestras actividades.
+<br>
 <a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/logo-meetup.png" width="80"/>
 
 # Únete y participa
