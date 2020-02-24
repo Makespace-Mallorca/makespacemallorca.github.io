@@ -71,7 +71,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
        <option value="Marratxí">Marratxí</option>
        <option value="Montuïri">Montuïri</option>
        <option value="Muro">Muro</option>
-       <option value="Palma de Mallorca">Palma</option>
+       <option value="Palma">Palma de Mallorca</option>
        <option value="Petra">Petra</option>
        <option value="Pollença">Pollença</option>
        <option value="Porreres">Porreres</option>
