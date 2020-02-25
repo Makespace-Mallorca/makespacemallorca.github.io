@@ -132,7 +132,7 @@ Curioseando en la historia aprenderemos a utilizar una tecnología electrónica 
 ## No te olvides de hacer el pago de los 28€
 Puedes hacerlo de la manera que te sea más cómoda:
 <img src="./images/CapturePayPal.PNG" width="100" align="left" />
-* [Pulsa aquí para pagar con PayPal](PayPal.me/MakespaceMallorca). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
+* [Pulsa aquí para pagar con PayPal](https://www.paypal.me/MakespaceMallorca). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Taller FPGA “ + tu nombre.
 
 <img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017877.jpeg" width="400" />
