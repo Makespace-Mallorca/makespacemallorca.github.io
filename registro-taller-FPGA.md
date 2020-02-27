@@ -1,5 +1,6 @@
 # Hackeando la historia. Taller de FPGA para simular la máquina Enigma
 <img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="400" align="right" />
+
 ## Detalles
 En la II Guerra Mundial, Alemania mantuvo en jaque a la flota aliada en el Atlántico Norte. Los convoyes caían a mano de los submarinos alemanes perfectamente coordinados por órdenes codificadas por uno de los inventos más fascinantes de esta época. La máquina Enigma inventada por Arthur Scherbius.
 <br>
