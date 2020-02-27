@@ -12,6 +12,8 @@ Curioseando en la historia aprenderemos a utilizar una tecnología electrónica 
 
 <a href="https://www.google.com/maps/search/?api=1&query=39.576805%2C2.639457"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/TallerFPGA_Coordenadas.PNG" width="300" align="right" />
 ## Agenda:
+**Sábado 4 de abril**
+<br>
 09:00 **Recepción** de asistentes en el Mallorca FabLab
 <br>
 09:45 **Traslado al Castillo Museo de San Carlos** en el autocar facilitado por la organización.
