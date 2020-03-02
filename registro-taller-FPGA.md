@@ -151,8 +151,8 @@ Puedes hacerlo de la manera que te sea más cómoda:
 * Te será muy útil traer tu portáti. Recuerda que es un taller de programación ;-)
 
 ## Organiza
-<a href="https://makespacemallorca.org/"><img src="./images/makespacemallorca_meetup.png" width="150"/>
-<a href="http://fablabmallorca.com"><img src="./images/FabLab_Mallorca.png" width="150"/>
+<a href="https://makespacemallorca.org/"><img src="./images/makespacemallorca_meetup.png" width="250"/>
+<a href="http://fablabmallorca.com"><img src="./images/FabLab_Mallorca.png" width="250"/>
 <a href="http://www.castillomuseosancarlos.com/"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/logo_museo_san_carlos.png" width="150"/> 
 <a href="http://fpgawars.github.io"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/FPGA WARS.jpg" width="150"/> 
   
