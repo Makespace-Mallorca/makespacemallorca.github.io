@@ -6,8 +6,10 @@ En la II Guerra Mundial, Alemania mantuvo en jaque a la flota aliada en el Atlá
 <br>
 Para este evento vendrá a Mallorca **Julian Caro Linares. Un experto conocedor y referencia en la divulgación de la tecnología libre de las FPGA**. Para que, en dos singulares ubicaciones: el **Castillo de San Carlos** donde conservan una máquina original y el **FabLab de Mallorca**. Nos enseñe de forma sencilla como él sabe. Todo sobre la ciencia que hay detrás de la codificación Enigma y la manera de simularla en una FPGA.
 <br>
+<img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/Enigma_Nazis.jpg" width="200" align="left" />
 Este evento está organizado por la **Asociación de Makers Mallorca** y está orientado a todo aquel que disfrute de la electrónica, la programación o participe del movimiento ‘Do It Yourself’.
 <br>
+<img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/FPGA_II_Alhambra.jpg" width="300" align="right" />
 Curioseando en la historia aprenderemos a utilizar una tecnología electrónica que va más allá de las capacidades de la mayoría de los micro-procesadores como Arduino o ESPx. Así podrás añadir a tu proyecto cosas como el tratamiento de imágenes, de señales, ejecución de aplicaciones en multihilo real o simulación de procesadores.
 
 <a href="https://www.google.com/maps/search/?api=1&query=39.576805%2C2.639457"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/TallerFPGA_Coordenadas.PNG" width="300" align="right" />
@@ -147,6 +149,14 @@ Puedes hacerlo de la manera que te sea más cómoda:
 * Si por cualquier circunstancia el evento es cancelado. El importe de la cuota de inscripción será completamente reembolsado.
 * Aunque habrá placas prestadas por la comunidad para realizar el taller, te recomendamos que te traigas tu propia placa Icezum Alhambra si la tienes.
 * Te será muy útil traer tu portáti. Recuerda que es un taller de programación ;-)
+
+## Organiza
+<a href="https://makespacemallorca.org/"><img src="./images/makespacemallorca_meetup.png" width="150"/>
+<a href="http://fablabmallorca.com"><img src="./images/FabLab_Mallorca.png" width="150"/>
+<a href="http://www.castillomuseosancarlos.com/"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/logo_museo_san_carlos.png" width="150"/> 
+<a href="http://fpgawars.github.io"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/FPGA WARS.jpg" width="150"/> 
+  
+
 
 # ¡GRACIAS POR PARTICIPAR!
 
