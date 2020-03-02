@@ -6,7 +6,7 @@ En la II Guerra Mundial, Alemania mantuvo en jaque a la flota aliada en el Atlá
 <br>
 Para este evento vendrá a Mallorca **Julian Caro Linares. Un experto conocedor y referencia en la divulgación de la tecnología libre de las FPGA**. Para que, en dos singulares ubicaciones: el **Castillo de San Carlos** donde conservan una máquina original y el **FabLab de Mallorca**. Nos enseñe de forma sencilla como él sabe. Todo sobre la ciencia que hay detrás de la codificación Enigma y la manera de simularla en una FPGA.
 <br>
-<img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/Enigma_Nazis.jpg" width="200" align="left" />
+<img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/Enigma_Nazis.jpg" width="250" align="left" />
 Este evento está organizado por la **Asociación de Makers Mallorca** y está orientado a todo aquel que disfrute de la electrónica, la programación o participe del movimiento ‘Do It Yourself’.
 <br>
 <img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/FPGA_II_Alhambra.jpg" width="300" align="right" />
