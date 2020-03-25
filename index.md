@@ -10,8 +10,9 @@ Para organizar charlas y talleres. Tener un punto de encuentro y traer a Mallorc
 Ahora tenemos un nuevo espacio de fabricación digital y un grupo entusiasta del movimiento Maker con muchos proyectos en marcha. La perfecta combinación para hacer proyectos colaborativos
 
 ```text
-Socializar y compartir tus proyectos los pueden llevar dónde nunca has imaginado.
-Encontrarás personas entusiastas con similares inquietudes tecnologías que ayudarán
+Socializar y compartir tus proyectos los pueden llevar
+dónde nunca has imaginado.Encontrarás personas entusiastas 
+con similares inquietudes tecnologías que ayudarán
 a que todo funcione e incluso mejor de lo esperado.
 ```
 ![Branching](https://raw.githubusercontent.com/Makespace-Mallorca/makespacemallorca.github.io/master/images/makespace_banner.png)
@@ -22,7 +23,7 @@ a que todo funcione e incluso mejor de lo esperado.
 La Asociación ha nacido junto al [FabLab de Mallorca](http://fablabmallorca.com/) y coexiste en sus actividades. Los socios tienen ventajas en la afiliación y uso del espacio. El espacio te ofrece herramientas como cortadoras laser, impresoras 3D, CNC… La solución cuando ya no caben tus proyectos en tu casa y te estás gastando más en máquinas que en proyectos.
 Estamos formado una comunidad comprometida con el movimiento Open Hardware y Software en la que compartimos conocimientos y experiencias.
 <br>
-Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada en hardware y software libre. Lee el [Maniefiesto Maker](https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/makespacemallorca_manifesto.png?raw=true)
+Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada en hardware y software libre. Lee el [Manifiesto Maker](https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/makespacemallorca_manifesto.png?raw=true)
 
 # Próximas actividades y talleres
 <a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
