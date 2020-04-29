@@ -26,7 +26,6 @@ Estamos formado una comunidad comprometida con el movimiento Open Hardware y Sof
 Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada en hardware y software libre. Lee el [Manifiesto Maker](https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/makespacemallorca_manifesto.png?raw=true)
 
 # Próximas actividades y talleres
-<a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
 
 ## MeetUp 7 de mayo. Nuevas iniciativas MAKER para la convivencia con el COVID-19
 <a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/Nuevas_Ideas_Maker_COVID19.png" width="300" align="left" />
@@ -46,7 +45,7 @@ Para abrir boca empezaremos este ´brainstorming´ con estas iniciativas:
 ```text
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 ```
-<br>
+
 <form id="fs-frm" name="RNuevas iniciativas MAKERs contra el COVID-19" accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="forull-name">Nombre</label>
@@ -67,6 +66,7 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
   </fieldset>
 </form>
 
+<a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
 ## Taller FPGA con Julian Caro
 Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
 <br>
