@@ -27,9 +27,9 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 # Próximas actividades y talleres
 
-## MeetUp 7 de mayo. Nuevas iniciativas MAKER para la convivencia con el COVID-19
-<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/Nuevas_Ideas_Maker_COVID19.png" width="300" align="left" />
+<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/Nuevas_Ideas_Maker_COVID19.png" width="400" align="left" />
 
+## MeetUp 7 de mayo. Nuevas iniciativas MAKER para la convivencia con el COVID-19
 El movimiento Maker se ha hecho presente como nunca y su aportación a la lucha contra esta enfermedad ha destacado.
 <br>
 Parece que lo peor de esta pandemia está pasando. Pero tenemos por delante una etapa de convivencia con el COVID19. Por lo que ahora necesitamos recoger, compartir y promover nuevas iniciativas y proyectos.
@@ -46,7 +46,7 @@ Para abrir boca empezaremos este ´brainstorming´ con estas iniciativas:
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 ```
 
-<form id="fs-frm" name="RNuevas iniciativas MAKERs contra el COVID-19" accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
+<form id="fs-frm" name="Nuevas iniciativas MAKERs contra el COVID-19" accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="forull-name">Nombre</label>
     <input type="text" name="nombre" id="nombre" placeholder="Nombre" required="">
@@ -56,8 +56,8 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
     <br>
     <fieldset class="direccion">
       <legend>¿Quieres hablar de tu idea?</legend>
-      <label for="note">Hablanos un poco de tu idea</label>
-      <textarea rows="3" name="comentarios" id="comentarios" placeholder="escribe aquí"></textarea>
+      <label for="note">Hablanos un poco de tu iniciativa maker</label>
+      <textarea rows="4" name="comentarios" id="comentarios" placeholder="escribe aquí"></textarea>
       <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
     </fieldset>
     <br>
@@ -67,6 +67,7 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 </form>
 
 <a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
+
 ## Taller FPGA con Julian Caro
 Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
 <br>
