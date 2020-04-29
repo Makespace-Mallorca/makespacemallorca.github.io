@@ -55,8 +55,8 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
     <br>
     <fieldset class="direccion">
-      <legend>¿Quieres hablar de tu idea?</legend>
-      <label for="note">Hablanos un poco de tu iniciativa maker</label>
+      <legend>¿Quieres hablar de tu idea Maker?</legend>
+      <label for="note">Describe aqui un poco de tu iniciativa</label>
       <textarea rows="4" name="comentarios" id="comentarios" placeholder="escribe aquí"></textarea>
       <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
     </fieldset>
