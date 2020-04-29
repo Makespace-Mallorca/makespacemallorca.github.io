@@ -34,7 +34,7 @@ El movimiento Maker se ha hecho presente como nunca y su aportación a la lucha 
 <br>
 Parece que lo peor de esta pandemia está pasando. Pero tenemos por delante una etapa de convivencia con el COVID19. Por lo que ahora necesitamos recoger, compartir y promover nuevas iniciativas y proyectos.
 <br>
-Pertenezcas o no a este movimiento. Si tienes una idea para un dispositivo, herramienta, programa o técnica que pueda ayudar para proteger nuestra salud a partir de ahora. Este es el momento de compartirla para que toda la Comunidad Maker siga ayudando a salvar vidas. Somos muchos y podemos hacer mucho.
+Pertenezcas o no a este movimiento. Si tienes una idea para un dispositivo, herramienta, programa o técnica que pueda ayudar para proteger nuestra salud a partir de ahora. Este es el momento de compartirla para que toda la Comunidad Maker siga ayudando a salvar vidas. Somos muchos y podemos hacer mucho juntos.
 <br>
 Para abrir boca empezaremos este ´brainstorming´ con estas iniciativas:
 - **Imprime cosas para no tocar cosas**. Victor Gómez del FabLab de mallorca nos mostrará diferentes diseños 3D de utensilios que evitarán que tus manos se contagien.
