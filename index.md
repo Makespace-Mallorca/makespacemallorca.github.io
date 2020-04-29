@@ -28,6 +28,45 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 # Próximas actividades y talleres
 <a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
 
+## MeetUp 7 de mayo. Nuevas iniciativas MAKER para la convivencia con el COVID-19
+<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/Nuevas_Ideas_Maker_COVID19.png" width="300" align="left" />
+
+El movimiento Maker se ha hecho presente como nunca y su aportación a la lucha contra esta enfermedad ha destacado.
+<br>
+Parece que lo peor de esta pandemia está pasando. Pero tenemos por delante una etapa de convivencia con el COVID19. Por lo que ahora necesitamos recoger, compartir y promover nuevas iniciativas y proyectos.
+<br>
+Pertenezcas o no a este movimiento. Si tienes una idea para un dispositivo, herramienta, programa o técnica que pueda ayudar para proteger nuestra salud a partir de ahora. Este es el momento de compartirla para que toda la Comunidad Maker siga ayudando a salvar vidas. Somos muchos y podemos hacer mucho.
+<br>
+Para abrir boca empezaremos este ´brainstorming´ con estas iniciativas:
+- Imprime cosas para no tocar cosas. Victor Gómez del FabLab de mallorca nos mostrará diferentes diseños 3D de utensilios que evitarán que tus manos se contagien.
+- ¿Hay mucha gente en el parque? Sensor LoRa de dispositivos bluetooth en espacios públicos. Por Carlos Orts, promotor de la comunidad The Thinks Networks Mallorca.
+- También hablaremos del proyecto ECMO. Proyecto colaborativo par la fabricación de máquinas de diálisis.
+- Y tendremos todo el tiempo que quieras para que cuentes esa idea que llevas días dándole vueltas. Ese nuevo cacharro que curará, protegerá o facilitara la vida de todos.
+<br>
+```text
+Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
+```
+<br>
+<form id="fs-frm" name="RNuevas iniciativas MAKERs contra el COVID-19" accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
+  <fieldset id="fs-frm-inputs">
+    <label for="forull-name">Nombre</label>
+    <input type="text" name="nombre" id="nombre" placeholder="Nombre" required="">
+    <br>
+    <label for="email-address">Email</label>
+    <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
+    <br>
+    <fieldset class="direccion">
+      <legend>¿Quieres hablar de tu idea?</legend>
+      <label for="note">Hablanos un poco de tu idea</label>
+      <textarea rows="3" name="comentarios" id="comentarios" placeholder="escribe aquí"></textarea>
+      <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
+    </fieldset>
+    <br>
+    <input type="submit" value="Enviar">
+    <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
+  </fieldset>
+</form>
+
 ## Taller FPGA con Julian Caro
 Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
 <br>
