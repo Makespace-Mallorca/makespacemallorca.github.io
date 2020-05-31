@@ -34,7 +34,7 @@ Tras el movimiento de coronavirus makers la comunidad de gente con impresoras 3d
 si estas interesado en la impresión 3d y en que hacer con el plástico residual hablaremos de alternativas para evitar que este se vaya al contenedor amarillo.
 analizaremos iniciativas como _**preciosus plastics**_.
 Y diseños de máquinas por parte da la comunidad.
-Podrás unirte por video desde las 19h del jueves 4 de junio directamente en: https://meet.jit.si/MakespaceMallorca
+Podrás unirte por video desde las 19h del jueves 4 de junio directamente en: [meet.jit.si/MakespaceMallorca](https://meet.jit.si/MakespaceMallorca)
 <br>
 ```text
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
