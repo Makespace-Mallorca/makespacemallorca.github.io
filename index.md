@@ -27,20 +27,14 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 # Próximas actividades y talleres
 
-<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/Nuevas_Ideas_Maker_COVID19.png" width="300" align="right" />
+<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/3DReciclajeDIY.jpg" width="300" align="right" />
 
-## MeetUp 7 de mayo. Nuevas iniciativas MAKER para la convivencia con el COVID-19
-El movimiento Maker se ha hecho presente como nunca y su aportación a la lucha contra esta enfermedad ha destacado.
-<br>
-Parece que lo peor de esta pandemia está pasando. Pero tenemos por delante una etapa de convivencia con el COVID19. Por lo que ahora necesitamos recoger, compartir y promover nuevas iniciativas y proyectos.
-<br>
-Pertenezcas o no a este movimiento. Si tienes una idea para un dispositivo, herramienta, programa o técnica que pueda ayudar para proteger nuestra salud a partir de ahora. Este es el momento de compartirla para que toda la Comunidad Maker siga ayudando a salvar vidas. Somos muchos y podemos hacer mucho juntos.
-<br>
-Para abrir boca empezaremos este ´brainstorming´ con estas iniciativas:
-- **Imprime cosas para no tocar cosas**. Victor Gómez del FabLab de mallorca nos mostrará diferentes diseños 3D de utensilios que evitarán que tus manos se contagien.
-- **¿Hay mucha gente ahora en el parque?** Sensor LoRa de dispositivos bluetooth en espacios públicos. Por Carlos Orts, promotor de la comunidad The Thinks Networks Mallorca.
-- También hablaremos del **proyecto ECMO**. Proyecto colaborativo par la fabricación de máquinas de diálisis.
-- Y tendremos todo el tiempo que quieras para que cuentes esa idea que llevas días dándole vueltas. Ese nuevo cacharro que curará, protegerá o facilitara la vida de todos.
+## MeetUp 4 de junio. Retos impresión 3D. Reciclaje de plástico DIY
+Tras el movimiento de coronavirus makers la comunidad de gente con impresoras 3d ha salido sus cuevas y hemos visto reflejado el problema de qué hacer con las impresiones fallidas y las bobinas de plástico vacías.
+si estas interesado en la impresión 3d y en que hacer con el plástico residual hablaremos de alternativas para evitar que este se vaya al contenedor amarillo.
+analizaremos iniciativas como _**preciosus plastics**_.
+Y diseños de máquinas por parte da la comunidad.
+Podrás unirte por video desde las 19h del jueves 4 de junio directamente en: https://meet.jit.si/MakespaceMallorca
 <br>
 ```text
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
