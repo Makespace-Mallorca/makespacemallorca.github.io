@@ -27,14 +27,11 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 # Próximas actividades y talleres
 
-<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/3DReciclajeDIY.jpg" width="300" align="right" />
+Síguenos en MeetUp, y estarás al día de nuestras actividades.
+<br>
+<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/logo-meetup.png" width="80"/>
 
-## MeetUp 4 de junio. Retos impresión 3D. Reciclaje de plástico DIY
-Tras el movimiento de coronavirus makers la comunidad de gente con impresoras 3d ha salido sus cuevas y hemos visto reflejado el problema de qué hacer con las impresiones fallidas y las bobinas de plástico vacías.
-si estas interesado en la impresión 3d y en que hacer con el plástico residual hablaremos de alternativas para evitar que este se vaya al contenedor amarillo.
-analizaremos iniciativas como _**preciosus plastics**_.
-Y diseños de máquinas por parte da la comunidad.
-Podrás unirte por video desde las 19h del jueves 4 de junio directamente en: [meet.jit.si/MakespaceMallorca](https://meet.jit.si/MakespaceMallorca)
+## participa, cuéntanos tus ideas
 <br>
 ```text
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
@@ -67,10 +64,6 @@ Para todos los amantes de la micro-electrónica y la programación. Hemos organi
 <br>
 Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
 [¿Te lo vas a perder? Inscríbete aquí](./registro-taller-FPGA.html).
-
-Síguenos en MeetUp, y estarás al día de nuestras actividades.
-<br>
-<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/logo-meetup.png" width="80"/>
 
 # Únete y participa
 <a href="./registro-socio.html"><img src="./images/RobotRetro.png" width="100" align="left" />
