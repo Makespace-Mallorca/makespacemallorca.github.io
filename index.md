@@ -34,7 +34,7 @@ El trabajo colaborativo y social ha marcado desde un principio la manera en la q
 ## MicroMouse. El robot ratón de competición
 Es uno de los retos más complejos a la vez que divertidos en el ámbito de la robótica. Se trata de construir un robot para ser el más rápido en resolver y completar un laberinto de forma autónoma. Se le suele permitir estudiar el trazado del laberinto previamente. Existen competiciones en diferentes paises pero el equipo está preparándose para la competición más conocida en España, la [OSHWDem de la Coruña](https://oshwdem.org/).
 
-<img src="https://raw.githubusercontent.com/Makespace-Mallorca/removir/main/img/IMG_9900.JPG" width="300" align="right" />
+<img src="https://raw.githubusercontent.com/Makespace-Mallorca/removir/main/img/IMG_9900.JPG" width="250" align="right" />
 
 ## <img src="https://raw.githubusercontent.com/Makespace-Mallorca/removir/main/img/removir_logo.png" width="50" /> RemoVir
 Esta es nuestra aportación al compromiso que todos los Makers tenemos con la problemática del COVID-19. Estamos diseñando la modificación de un Split de aire acondicionado para convertirlo en un purificador de aire con filtro HEPA por poco más del coste de los filtros y lo más importante. Ayudar a mantener el medio ambiente mientras se protege del contagio de COVID-19 en espacios cerrados.
