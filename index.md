@@ -20,10 +20,24 @@ a que todo funcione e incluso mejor de lo esperado.
 [Estatutos de la Asociación](https://github.com/Makespace-Mallorca/Estatutos-Reglamento/blob/master/Estatutos.md)
 
 ## El espacio de fabricación digital que siempre has soñado.
+
 La Asociación ha nacido junto al [FabLab de Mallorca](http://fablabmallorca.com/) y coexiste en sus actividades. Los socios tienen ventajas en la afiliación y uso del espacio. El espacio te ofrece herramientas como cortadoras laser, impresoras 3D, CNC… La solución cuando ya no caben tus proyectos en tu casa y te estás gastando más en máquinas que en proyectos.
 Estamos formado una comunidad comprometida con el movimiento Open Hardware y Software en la que compartimos conocimientos y experiencias.
 <br>
 Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada en hardware y software libre. Lee el [Manifiesto Maker](https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/makespacemallorca_manifesto.png?raw=true)
+
+# ¿Qué estamos haciendo?
+
+El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario personal en un canal de Telegram a una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de que la idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubre todos los roles necesarios para llevarla a cavo. El proyecto toma forma. En este momento tenemos dos destacados y abiertos a tu participación:
+<img src="./images/MicroMouse_cadebou.jpeg" width="300" align="right" />
+
+## MicroMouse. El robot ratón de competición
+Es uno de los retos más complejos a la vez que divertidos en el ámbito de la robótica. Se trata de construir un robot para ser el más rápido en resolver y completar un laberinto de forma autónoma. Se le suele permitir estudiar el trazado del laberinto previamente. Existen competiciones en diferentes paises pero el equipo está preparándose para la competición más conocida en España, la [OSHWDem de la Coruña](https://oshwdem.org/).
+
+<img src="https://github.com/Makespace-Mallorca/removir/blob/main/img/IMG_9900.JPG" width="300" align="right" />
+
+## <img src="https://github.com/Makespace-Mallorca/removir/blob/main/img/removir_logo.png" width="50" /> RemoVir
+Esta es nuestra aportación al compromiso que todos los Makers tenemos con la problemática del COVID-19. Estamos diseñando la modificación de un Split de aire acondicionado para convertirlo en un purificador de aire con filtro HEPA por poco más del coste de los filtros y lo más importante. Ayudar a mantener el medio ambiente mientras se protege del contagio de COVID-19 en espacios cerrados.
 
 # Próximas actividades y talleres
 
@@ -59,7 +73,7 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 
 <a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
 
-## Taller FPGA con Julian Caro
+## Taller FPGA con Julian Caro (Aplazado)
 Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
 <br>
 Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
@@ -72,12 +86,12 @@ Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian 
 Makers de Mallorca, necesita tu ayuda para continuar con nuestros objetivos y actividades. 
 Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.html).
 
-## Participa
+## Síguenos en
 Aquí nos encontrarás y también puedes participar libremente en debates, expón tus dudas y haz sugerencias:
 
 <a href="https://t.me/joinchat/GA2cyBIjeJ5Zht2B9WhYKQ"><img src="./images/logo-telegram.png" width="80"/>
 <a href="http://www.twitter.com/MakespacePMI"><img src="./images/logo-twitter.png" width="80"/>
 <a href="mailto:makespace.mallorca@gmail.com"><img src="./images/logo-mail.png" width="80"/>
-
+<a href="https://www.youtube.com/channel/UCDm4Fy9tZBC9q-GoauDKBsA"><img src="./images/logo-youtube.png" width="80"/>
 
 [Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html)
