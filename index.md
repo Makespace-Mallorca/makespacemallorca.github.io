@@ -38,6 +38,8 @@ Es uno de los retos más complejos a la vez que divertidos en el ámbito de la r
 
 ## <img src="https://github.com/Makespace-Mallorca/removir/blob/main/img/removir_logo.png" width="50" /> RemoVir
 Esta es nuestra aportación al compromiso que todos los Makers tenemos con la problemática del COVID-19. Estamos diseñando la modificación de un Split de aire acondicionado para convertirlo en un purificador de aire con filtro HEPA por poco más del coste de los filtros y lo más importante. Ayudar a mantener el medio ambiente mientras se protege del contagio de COVID-19 en espacios cerrados.
+<br>
+Sigue el proyecto en: https://github.com/Makespace-Mallorca/removir
 
 # Próximas actividades y talleres
 
