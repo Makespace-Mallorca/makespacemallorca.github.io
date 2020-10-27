@@ -1,3 +1,23 @@
+url: http://makespacemallorca.github.io
+baseurl:
+
+# Site settings
 title: Bienvenido a la Comunidad Maker de Mallorca
-description: Sabemos que el espíritu Maker está presente en Mallorca. Y queremos reunir a todos aquellos que disfruten del ´háztelo tu mismo´ usando nuevas tecnologías digitales e industriales
 theme: jekyll-theme-cayman
+email: makespace.mallorca@gmail.com
+description: Sabemos que el espíritu Maker está presente en Mallorca. Y queremos reunir a todos aquellos que disfruten del ´háztelo tu mismo´ usando nuevas tecnologías digitales e industriales.
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  - content
+
+# Menu
+menu:
+  - Historia
+  - Qué hacemos
+  - Actividades
+  - Unete 
