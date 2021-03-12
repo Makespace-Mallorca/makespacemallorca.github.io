@@ -96,4 +96,4 @@ Aquí nos encontrarás y también puedes participar libremente en debates, expó
 <a href="mailto:makespace.mallorca@gmail.com"><img src="./images/logo-mail.png" width="80"/>
 <a href="https://www.youtube.com/channel/UCDm4Fy9tZBC9q-GoauDKBsA"><img src="./images/logo-youtube.png" width="80"/>
 
-[Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.html)
+[Consulta aquí nuestra política de privacidad](./politica-de-privacidad-y-cookies.md)
