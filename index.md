@@ -30,7 +30,7 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario personal en un canal de Telegram a una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de que la idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubre todos los roles necesarios para llevarla a cavo. El proyecto toma forma. En este momento tenemos dos destacados y abiertos a tu participación:
 
-<img src="./images/canamunt.jog" width="300" align="right" />
+<img src="./images/canamunt.jpg" width="300" align="right" />
 
 ## Canamunt IoT. Primera red medioambiental abierta de Palma de Mallorca
 Gracias a Associació de Veïnes de Canamunt que ha conseguido la financiación del proyecto. La comunidad Maker de Mallorca está desarrollando el proyecto de ciencia ciudadana en el que se va a dotar a este barrio de una red de sensores de calidad del aire, ruido ambiental, metereología y radiactividad con diseños propios y abiertos utilizando y ampliando la red LoRaWAN libre de The Things Networks.
