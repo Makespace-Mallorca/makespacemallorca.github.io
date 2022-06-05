@@ -29,6 +29,16 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 # ¿Qué estamos haciendo?
 
 El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario personal en un canal de Telegram a una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de que la idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubre todos los roles necesarios para llevarla a cavo. El proyecto toma forma. En este momento tenemos dos destacados y abiertos a tu participación:
+
+<img src="./images/canamunt.png" width="300" align="right" />
+
+## Canamunt IoT. Primera red medioambiental abierta de Palma de Mallorca
+Gracias a Associació de Veïnes de Canamunt que ha conseguido la financiación del proyecto. La comunidad Maker de Mallorca está desarrollando el proyecto de ciencia ciudadana en el que se va a dotar a este barrio de una red de sensores de calidad del aire, ruido ambiental, metereología y radiactividad con diseños propios y abiertos utilizando y ampliando la red LoRaWAN libre de The Things Networks.
+
+El objetivo es que los propios ciudadanos conozcan las tecnologías que definen la Smartcity del futuro. Participen en su despliegue y los Makers construyendo sus  sensores compartiendo el conocimiento de estas nuevas tecnologías a través de talleres realizados en el Fablab de Mallorca. 
+
+El compromiso es que tanto los datos como el código sea abierto y accesible desde plataformas como GitHUb, Sentilo, sensor.community...
+
 <img src="./images/MicroMouse_cadebou.jpeg" width="300" align="right" />
 
 ## MicroMouse. El robot ratón de competición
