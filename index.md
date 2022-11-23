@@ -46,7 +46,7 @@ Será una prueba competitiva con premios y con unas bases de participación senc
 - La única fuente de energía eléctrica usada será exclusivamente solar, generada por un panel de aproximadamente 100W (el panel nunca excederá de 36 celdas),
 - Las embarcaciones estarán propulsadas por cualquier tipo y formato de motor eléctrico. El resto de componentes y piezas para conformar la embarcación pueden ser libremente elegidos sin ningún tipo de restricción.
 - Las únicas baterías a bordo serán las dedicadas al sistema de recepción y control de la embarcación.
-<img src="./images/regata_solar_material.jpeg" align="center" />
+<img src="./images/regata_solar_material.jpeg" width="500" align="center" />
 
 La competición se celebraría en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma. 
 
