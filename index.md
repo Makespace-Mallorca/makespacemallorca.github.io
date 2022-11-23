@@ -28,7 +28,28 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 # ¿Qué estamos haciendo?
 
-El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario personal en un canal de Telegram a una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de que la idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubre todos los roles necesarios para llevarla a cavo. El proyecto toma forma. En este momento tenemos dos destacados y abiertos a tu participación:
+El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario en nuestro [canal de Telegram](https://t.me/+dakZQEg_YyxkMTBk) como en una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de una idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubra todos los roles necesarios para llevarla a cavo. El proyecto toma forma y queda abierto a la participación. 
+
+<img src="./images/regata_solar_logo.png" width="300" align="right" />
+
+## I Regata Solar Illes Balears.2023
+
+Tras la participación en de cuatro equipos Makers mallorquines en la V Regata Solar Marine Instruments de Baiona. Estamos decididos a organizar nuestra propia regata el próximo año 2023.
+
+### ¿En qué consiste?
+Será una **competición de embarcaciones no tripuladas impulsadas por energía solar** y cuyo gobierno se realiza mediante un sistema de control remoto o de forma completamente autónoma.
+Estarán diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo. 
+Será una prueba competitiva con premios y con unas bases de participación sencillas que se resumen en:
+- Abierto a equipos escolares y aficionados.
+- La única fuente de energía eléctrica usada será exclusivamente solar, generada por un panel de aproximadamente 100W (el panel nunca excederá de 36 celdas),
+- Las embarcaciones estarán propulsadas por cualquier tipo y formato de motor eléctrico. El resto de componentes y piezas para conformar la embarcación pueden ser libremente elegidos sin ningún tipo de restricción.
+- Las únicas baterías a bordo serán las dedicadas al sistema de recepción y control de la embarcación.
+<img src="./images/regata_solar_material.png" align="center" />
+
+La competición se celebraría en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma. 
+
+>Es un proyecto alineado con los Objetivos de Desarrollo Sostenible de la agenda 2030 de la ONU y con la educación orientada STEM (Science Technology Engineering and Mathematics) tan necesaria en la actualidad, para garantizar el futuro de nuestros estudiantes y todas aquellas  personas que se quieran reciclar en estas materias, poniendo también el foco en conseguir equipos paritarios.
+<img src="./images/regata_solar_2030STEM.png" align="center" />
 
 <img src="./images/canamunt.jpg" width="300" align="right" />
 
