@@ -39,12 +39,14 @@ Tras la participación en de cuatro equipos Makers mallorquines en la V Regata S
 ### ¿En qué consiste?
 Será una **competición de embarcaciones no tripuladas impulsadas por energía solar** y cuyo gobierno se realiza mediante un sistema de control remoto o de forma completamente autónoma.
 Estarán diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo. 
+[![Barco Victor](./images/regata_solar_barco.png)](https://youtu.be/HN6s5r-bW-M)
+
 Será una prueba competitiva con premios y con unas bases de participación sencillas que se resumen en:
 - Abierto a equipos escolares y aficionados.
 - La única fuente de energía eléctrica usada será exclusivamente solar, generada por un panel de aproximadamente 100W (el panel nunca excederá de 36 celdas),
 - Las embarcaciones estarán propulsadas por cualquier tipo y formato de motor eléctrico. El resto de componentes y piezas para conformar la embarcación pueden ser libremente elegidos sin ningún tipo de restricción.
 - Las únicas baterías a bordo serán las dedicadas al sistema de recepción y control de la embarcación.
-<img src="./images/regata_solar_material.png" align="center" />
+<img src="./images/regata_solar_material.jpeg" align="center" />
 
 La competición se celebraría en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma. 
 
