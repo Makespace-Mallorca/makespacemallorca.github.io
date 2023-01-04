@@ -88,7 +88,7 @@ Síguenos en MeetUp, y estarás al día de nuestras actividades.
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 ```
 
-<form id="fs-frm" name="Nuevas iniciativas MAKERs contra el COVID-19" accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
+<form id="fs-frm" name="Nuevas iniciativas MAKERs " accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
   <fieldset id="fs-frm-inputs">
     <label for="forull-name">Nombre</label>
     <input type="text" name="nombre" id="nombre" placeholder="Nombre" required="">
