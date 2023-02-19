@@ -30,7 +30,7 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario en nuestro [canal de Telegram](https://t.me/+dakZQEg_YyxkMTBk) como en una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de una idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubra todos los roles necesarios para llevarla a cavo. El proyecto toma forma y queda abierto a la participación. 
 
-<img src="./images/regata_solar_logo.png" width="100" align="right" />
+<img src="./images/regata_solar_logo.png" width="200" align="right" />
 
 ## I Regata Solar Illes Balears 2023
 
@@ -42,7 +42,7 @@ Será una **competición de embarcaciones no tripuladas impulsadas por energía 
 Estarán diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo. 
 [![Barco Victor](./images/regata_solar_barco.png)](https://youtu.be/HN6s5r-bW-M)
 
-Tienes toda la información e inscripciones en la [Web de la I Regata Solar de Balears]([https://www.regatasolarbalears.org/)
+Tienes toda la información e inscripciones en la [Web de la I Regata Solar de Balears](https://www.regatasolarbalears.org/)
 <br>
 
 <a href="https://www.regatasolarbalears.org/"><img src="./images/regata_solar_web.png" width="600" align="center" />
