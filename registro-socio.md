@@ -1,4 +1,4 @@
-![Socios](/img/images/RobotRetro.png)
+<img src="https://makespacemallorca.org/images/RobotRetro.png" width="200" align="left" />
 
 # Makers de Mallorca, necesita tu ayuda para continuar siendo la Comunidad Maker de todos
 Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el formulario. 
@@ -115,6 +115,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 ## No te olvides de hacer el pago
 Se puede hacer el pago de los 10€ por:
 <a href="https://www.paypal.me/MakespaceMallorca/"><img src="https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png" width="100" align="left" />
+
 * [Pulsa aquí para pagar con PayPal](https://www.paypal.me/MakespaceMallorca). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Socio “ + tu nombre.
 
