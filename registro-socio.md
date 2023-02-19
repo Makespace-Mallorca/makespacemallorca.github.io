@@ -1,4 +1,4 @@
-<img src="./images/RobotRetro.png" width="250" align="right" />
+<img src="https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/RobotRetro.png" width="250" align="right" />
 
 # Makers de Mallorca, necesita tu ayuda para continuar siendo la Comunidad Maker de todos
 Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el formulario. 
@@ -12,16 +12,16 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 
 <form id="fs-frm" name="Registro de socio" accept-charset="utf-8" action="https://formspree.io/xayjnann" method="POST">
   <fieldset id="fs-frm-inputs">
-    <label for="forull-name">Nombre</label>
+    <label for="nombre">Nombre</label>
     <input type="text" name="nombre" id="nombre" placeholder="Nombre completo" required="">
-    <label for="forull-surname">Apellidos</label>
+    <label for="apellidos">Apellidos</label>
     <input type="text" name="apellidos" id="nombre" placeholder="Apellidos" required="">
     <br>
-    <label for="email-address">Email</label>
+    <label for="email">Email</label>
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">
     <br>
-    <label for="text">ID</label>
-    <input type="email" name="dni" id="email" placeholder="DNI, NIE o pasaporte" required="">         
+    <label for="id">ID</label>
+    <input type="text" name="dni" id="email" placeholder="DNI, NIE o pasaporte" required="">         
     <br>
     <label for="telefono">Teléfono</label>
     <input type="telefono" name="telefono" id="telefono" placeholder="Teléfono" required="">       
@@ -102,9 +102,9 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
       </select>
       <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
     </fieldset>
-    <label for="note">Comentarios</label>
+    <label for="notas">Comentarios</label>
     <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
+    <input type="hidden" name="_subject" id="email-subject" value="Resgistro de socio">
     <br>
     <input type="submit" value="Enviar">
     <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
@@ -114,7 +114,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 [Consulta aquí nuestra Política de Privacidad](./politica-de-privacidad-y-cookies.html)
 ## No te olvides de hacer el pago
 Se puede hacer el pago de los 10€ por:
-<a href="https://www.paypal.me/MakespaceMallorca/"><img src="./images/CapturePayPal.png" width="100" align="left" />
+<a href="https://www.paypal.me/MakespaceMallorca/"><img src="https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/CapturePayPal.PNG" width="100" align="left" />
 * [Pulsa aquí para pagar con PayPal](https://www.paypal.me/MakespaceMallorca). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Socio “ + tu nombre.
 
