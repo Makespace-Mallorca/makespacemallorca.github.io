@@ -119,7 +119,7 @@ Se puede hacer el pago de los 10€ por:
 
 * [Pulsa aquí para pagar con PayPal](https://www.paypal.me/MakespaceMallorca). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
 
-<a href="https://www.paypal.me/MakespaceMallorca/"><img src="https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png" width="100" align="left" />
+<a href="https://www.paypal.me/MakespaceMallorca/"><img src="https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png" width="100" align="right" />
 
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Socio “ + tu nombre.
 
