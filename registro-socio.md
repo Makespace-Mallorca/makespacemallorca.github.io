@@ -20,7 +20,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <label for="email-address">Email</label>
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">
     <br>
-    <label for="email-address">ID</label>
+    <label for="text">ID</label>
     <input type="email" name="dni" id="email" placeholder="DNI, NIE o pasaporte" required="">         
     <br>
     <label for="telefono">Teléfono</label>

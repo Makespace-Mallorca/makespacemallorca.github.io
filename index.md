@@ -16,8 +16,8 @@ con similares inquietudes tecnologías que ayudarán
 a que todo funcione e incluso mejor de lo esperado.
 ```
 ![Branching](https://raw.githubusercontent.com/Makespace-Mallorca/makespacemallorca.github.io/master/images/makespace_banner.png)
-**Para saber más**  
-[Estatutos de la Asociación](https://github.com/Makespace-Mallorca/Estatutos-Reglamento/blob/master/Estatutos.md)
+**Para saber más y registrarse**  
+[Estatutos de la Asociación](https://github.com/Makespace-Mallorca/Estatutos-Reglamento/blob/master/Estatutos.md) [Registro de socio](./registro-socio.md).
 
 ## El espacio de fabricación digital que siempre has soñado.
 
@@ -30,7 +30,7 @@ Fieles al manifiesto Maker toda nuestra labor es pùblica, compartida y basada e
 
 El trabajo colaborativo y social ha marcado desde un principio la manera en la que empleamos nuestro tiempo. Partimos de una iniciativa que puede surgir en cualquier ambito, desde un comentario en nuestro [canal de Telegram](https://t.me/+dakZQEg_YyxkMTBk) como en una iniciativa pública o de otras asociaciones o entidades. La clave está en que si se dan las circunstacias de una idea es bien acogida y sobre todo, se forma un equipo multidisplinar que cubra todos los roles necesarios para llevarla a cavo. El proyecto toma forma y queda abierto a la participación. 
 
-<img src="./images/regata_solar_logo.png" width="300" align="right" />
+<img src="./images/regata_solar_logo.png" width="600" align="center" />
 
 ## I Regata Solar Illes Balears 2023
 
@@ -41,7 +41,7 @@ Será una **competición de embarcaciones no tripuladas impulsadas por energía 
 Estarán diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo. 
 [![Barco Victor](./images/regata_solar_barco.png)](https://youtu.be/HN6s5r-bW-M)
 
-Tienes toda la información e inscripciones en: https://www.regatasolarbalears.org/
+Tienes toda la información e inscripciones en la [Web de la I Regata Solar de Balears]([https://www.regatasolarbalears.org/)
 <br>
 
 <a href="https://www.regatasolarbalears.org/"><img src="./images/regata_solar_material.png" width="500" align="center" />
@@ -110,10 +110,9 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
 <br>
 Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
-[¿Te lo vas a perder? Inscríbete aquí](./registro-taller-FPGA.html).
 
 # Únete y participa
-<a href="./registro-socio.html"><img src="./images/RobotRetro.png" width="100" align="left" />
+<a href="./registro-socio.md"><img src="./images/RobotRetro.png" width="100" align="left" />
 
 ## Asociate
 **Makers de Mallorca**, es más que un grupo de aficionados a la tecnología. Es tener acceso a eventos, talleres, chats, y FabLab donde desarrollar tus proyectos o mejorar tus habilidades. 
