@@ -95,7 +95,6 @@ Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian 
 Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.md).
 
 ## Cuéntanos tus ideas
-<br>
 ```text
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
 ```

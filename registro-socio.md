@@ -114,8 +114,6 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 [Consulta aquí nuestra Política de Privacidad](./politica-de-privacidad-y-cookies.html)
 ## No te olvides de hacer el pago
 
-<a href="https://www.paypal.me/MakespaceMallorca/"><img src="https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png" width="100" align="right" />
-
 Se puede hacer el pago de los 10€ por:
 <br>
 
