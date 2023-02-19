@@ -21,7 +21,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">
     <br>
     <label for="id">ID</label>
-    <input type="text" name="dni" id="email" placeholder="DNI, NIE o pasaporte" required="">         
+    <input type="text" name="DNI" id="email" placeholder="DNI, NIE o pasaporte" required="">         
     <br>
     <label for="telefono">Teléfono</label>
     <input type="telefono" name="telefono" id="telefono" placeholder="Teléfono" required="">       
@@ -30,7 +30,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
       <legend>Dirección</legend>
       <input type="text" name="calle" id="calle" placeholder="Calle/avenida/paseo..." required="">       
       <input type="text" name="localidad" placeholder="Localidad">
-      <select name="Municipio" required="">       
+      <select name="municipio" required="">       
        <option value="Select" selected=" disabled=">Municipio</option>
        <option value="Alaior">Alaior</option>
        <option value="Alaró">Alaró</option>
@@ -100,11 +100,11 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
        <option value="Valldemossa">Valldemossa</option>
        <option value="Vilafranca de Bonany">Vilafranca de Bonany</option>
       </select>
-      <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
+      <input type="text" name="CP" placeholder="Código postal" required="">       
     </fieldset>
     <label for="notas">Comentarios</label>
     <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Resgistro de socio">
+    <input type="hidden" name="_subject" id="email-subject" value="Registro de socio">
     <br>
     <input type="submit" value="Enviar">
     <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>

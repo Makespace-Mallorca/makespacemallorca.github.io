@@ -75,9 +75,24 @@ Sigue el proyecto en: [github.com/Makespace-Mallorca/removir](https://github.com
 
 # Próximas actividades y talleres
 
+<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/logo-meetup.png" align="left" width="80"/>
+
 Síguenos en MeetUp, y estarás al día de nuestras actividades.
 <br>
-<a href="https://www.meetup.com/es-ES/makespace-mallorca/"><img src="./images/logo-meetup.png" width="80"/>
+
+<a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
+
+## Taller FPGA con Julian Caro (Aplazado)
+Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
+<br>
+Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
+
+# Únete y participa
+<a href="./registro-socio.md"><img src="./images/RobotRetro.png" width="100" align="left" />
+
+## Asociate
+**Makers de Mallorca**, es más que un grupo de aficionados a la tecnología. Es tener acceso a eventos, talleres, chats, y FabLab donde desarrollar tus proyectos o mejorar tus habilidades. 
+Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.md).
 
 ## participa, cuéntanos tus ideas
 <br>
@@ -104,20 +119,6 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
     <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
   </fieldset>
 </form>
-
-<a href="./registro-taller-FPGA.html"><img src="https://raw.githubusercontent.com/Makespace-Mallorca/taller_FPGA/master/highres_489017954.jpeg" width="300" align="right" />
-
-## Taller FPGA con Julian Caro (Aplazado)
-Para todos los amantes de la micro-electrónica y la programación. Hemos organizado desde la Asociación y el FabLab de Mallorca un gran evento. 
-<br>
-Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
-
-# Únete y participa
-<a href="./registro-socio.md"><img src="./images/RobotRetro.png" width="100" align="left" />
-
-## Asociate
-**Makers de Mallorca**, es más que un grupo de aficionados a la tecnología. Es tener acceso a eventos, talleres, chats, y FabLab donde desarrollar tus proyectos o mejorar tus habilidades. 
-Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.md).
 
 ## Síguenos en
 Aquí nos encontrarás y también puedes participar libremente en debates, expón tus dudas y haz sugerencias:
