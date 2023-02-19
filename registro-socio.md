@@ -1,4 +1,4 @@
-<img src="https://github.com/Makespace-Mallorca/makespacemallorca.github.io/blob/master/images/RobotRetro.png" width="250" align="right" />
+![Socios](/img/images/RobotRetro.png)
 
 # Makers de Mallorca, necesita tu ayuda para continuar siendo la Comunidad Maker de todos
 Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el formulario. 

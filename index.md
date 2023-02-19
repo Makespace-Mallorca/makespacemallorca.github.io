@@ -7,7 +7,7 @@ En torno a estos encuentros, ha ido creciendo una Comunidad que quiere ser más 
 Como decía aquel programa ochentero de la Bola de Cristal: "Solo no puedes, con amigos sí". Aunque tenemos muchos recursos on-line para avanzar en los proyectos. Nada es mejor que la experiencia cercada de quien te puede enseñar en directo cómo ajustar una impresora 3D o programar un Arduino. 
 <br>
 Para organizar charlas y talleres. Tener un punto de encuentro y traer a Mallorca personas y eventos que antes teníamos que ir a ver. 
-Ahora tenemos un nuevo espacio de fabricación digital y un grupo entusiasta del movimiento Maker con muchos proyectos en marcha. La perfecta combinación para hacer proyectos colaborativos
+Ahora tenemos un nuevo espacio de fabricación digital y un grupo entusiasta del movimiento Maker con muchos proyectos en marcha. La perfecta combinación para hacer proyectos colaborativos. No dudes en registrarte [aquí](./registro-socio.md) si quieres formar parte de esta asociación.
 
 ```text
 Socializar y compartir tus proyectos los pueden llevar
@@ -88,13 +88,13 @@ Para todos los amantes de la micro-electrónica y la programación. Hemos organi
 Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian Caro Linares](https://github.com/jcarolinares). Con las placas Icezum Alhambra I prestadas por la comunidad PGA Wars. Nos enseñará cómo usar esta tecnología simulando el algoritmo de la máquina alemana Enigma de la II Guerra Mundial. Que podremos ver en directo en el Castillo de San Carlos de la mano de un historiador del Patronato.
 
 # Únete y participa
-<a href="./registro-socio.md"><img src="./images/RobotRetro.png" width="100" align="left" />
+<a href="https://makespacemallorca.org/registro-socio/"><img src="./images/RobotRetro.png" width="100" align="left" />
 
 ## Asociate
 **Makers de Mallorca**, es más que un grupo de aficionados a la tecnología. Es tener acceso a eventos, talleres, chats, y FabLab donde desarrollar tus proyectos o mejorar tus habilidades. 
 Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.md).
 
-## participa, cuéntanos tus ideas
+## Cuéntanos tus ideas
 <br>
 ```text
 Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
