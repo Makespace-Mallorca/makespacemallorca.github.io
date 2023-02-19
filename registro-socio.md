@@ -114,7 +114,7 @@ Para hacerse socio se requiere un pago de 10€ (cuota anual) tras rellenar el f
 [Consulta aquí nuestra Política de Privacidad](./politica-de-privacidad-y-cookies.html)
 ## No te olvides de hacer el pago
 Se puede hacer el pago de los 10€ por:
-<a href="https://www.paypal.me/MakespaceMallorca/"><<img src="./images/CapturePayPal.svg" width="100" align="left" />
+<a href="https://www.paypal.me/MakespaceMallorca/"><img src="./images/CapturePayPal.svg" width="100" align="left" />
 * [Pulsa aquí para pagar con PayPal](https://www.paypal.me/MakespaceMallorca). Utilizando el mismo email puesto en el formulario anterior. **Recuerda seleccionar: Enviar a un amigo**
 * por transferencia bancaria directa a la cuenta de la Asociación en la Colonya Caixa Pollença IBAN: ES1920560009702058796729 con la referencia de “Socio “ + tu nombre.
 
