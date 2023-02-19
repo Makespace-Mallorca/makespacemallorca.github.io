@@ -32,7 +32,7 @@ El trabajo colaborativo y social ha marcado desde un principio la manera en la q
 
 <img src="./images/regata_solar_logo.png" width="300" align="right" />
 
-## I Regata Solar Illes Balears.2023
+## I Regata Solar Illes Balears 2023
 
 Tras la participación en de cuatro equipos Makers mallorquines en la V Regata Solar Marine Instruments de Baiona. Estamos decididos a organizar nuestra propia regata el próximo año 2023.
 
@@ -41,16 +41,12 @@ Será una **competición de embarcaciones no tripuladas impulsadas por energía 
 Estarán diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo. 
 [![Barco Victor](./images/regata_solar_barco.png)](https://youtu.be/HN6s5r-bW-M)
 
-Será una prueba competitiva con premios y con unas bases de participación sencillas que se resumen en:
-- Abierto a equipos escolares y aficionados.
-- La única fuente de energía eléctrica usada será exclusivamente solar, generada por un panel de aproximadamente 100W (el panel nunca excederá de 36 celdas),
-- Las embarcaciones estarán propulsadas por cualquier tipo y formato de motor eléctrico. El resto de componentes y piezas para conformar la embarcación pueden ser libremente elegidos sin ningún tipo de restricción.
-- Las únicas baterías a bordo serán las dedicadas al sistema de recepción y control de la embarcación.
+Tienes toda la información e inscripciones en: https://www.regatasolarbalears.org/
 <br>
 
-<img src="./images/regata_solar_material.jpeg" width="500" align="center" />
+<a href="https://www.regatasolarbalears.org/"><img src="./images/regata_solar_material.png" width="500" align="center" />
 
-La competición se celebraría en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma. 
+La competición se celebraría en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma. Se englobará un evento de dos días que empieza la tarde del viernes día 19 de mayo con charlas y coloquios de la mano de la asociación Maker de Mallorca acabando con una cena para conocernos. El día 20 se centrará en la regata con sus preparativos desde las 10 de la mañana.
 
 >Es un proyecto alineado con los Objetivos de Desarrollo Sostenible de la agenda 2030 de la ONU y con la educación orientada STEM (Science Technology Engineering and Mathematics) tan necesaria en la actualidad, para garantizar el futuro de nuestros estudiantes y todas aquellas  personas que se quieran reciclar en estas materias, poniendo también el foco en conseguir equipos paritarios.
 <img src="./images/regata_solar_2030STEM.png" align="center" />
@@ -120,8 +116,8 @@ Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian 
 <a href="./registro-socio.html"><img src="./images/RobotRetro.png" width="100" align="left" />
 
 ## Asociate
-Makers de Mallorca, necesita tu ayuda para continuar con nuestros objetivos y actividades. 
-Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.html).
+**Makers de Mallorca**, es más que un grupo de aficionados a la tecnología. Es tener acceso a eventos, talleres, chats, y FabLab donde desarrollar tus proyectos o mejorar tus habilidades. 
+Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.md).
 
 ## Síguenos en
 Aquí nos encontrarás y también puedes participar libremente en debates, expón tus dudas y haz sugerencias:
