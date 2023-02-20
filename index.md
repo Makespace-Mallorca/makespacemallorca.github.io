@@ -94,9 +94,9 @@ Toda una mañana con el mejor profesor y divulgador de las FPGA libres, [Julian 
 **Makers de Mallorca**, es más que un grupo de aficionados a la tecnología. Es tener acceso a eventos, talleres, chats, y FabLab donde desarrollar tus proyectos o mejorar tus habilidades. 
 Pulsa este link para acceder a un rápido formulario [registro de socio](./registro-socio.md).
 
-## Cuéntanos tus ideas
+## Cuéntanos tu idea, porpón un proyecto.
 ```text
-Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
+Haznos una propuesta o si estás dando vueltas a una idea o proyecto. Compártelo y quizás encuentres ayuda para llevar a cabo.  
 ```
 
 <form id="fs-frm" name="Nuevas iniciativas MAKERs " accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
@@ -111,7 +111,7 @@ Antes de enamorarte de tu idea, te ayudaremos a probar si funciona ¨
       <legend>¿Quieres contarnos tu idea Maker?</legend>
       <label for="note">Describela aqui brevemente</label>
       <textarea rows="4" name="comentarios" id="comentarios" placeholder="escribe aquí"></textarea>
-      <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
+      <input type="hidden" name="_subject" id="email-subject" value="Ideas y propuestas">
     </fieldset>
     <br>
     <input type="submit" value="Enviar">
