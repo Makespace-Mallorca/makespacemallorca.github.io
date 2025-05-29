@@ -32,22 +32,20 @@ El trabajo colaborativo y social ha marcado desde un principio la manera en la q
 
 <img src="./images/regata_solar_logo.png" width="200" align="right" />
 
-## I Regata Solar Illes Balears 2023
+## Organizamos la Regata Solar Illes Balears
 
-Esta primavera nos espera un evento de dos días en torno a una competición de prototipos de barcos solares en uno de los sitios más emblemátivos de Palma de Mallorca.
-Comenzará la tarde del viernes día 19 de mayo con charlas y coloquios de la mano de la Asociación acabando con una cena para conocernos. El día 20 se centrará en la regata con sus preparativos desde las 10 de la mañana. Finalizando con la entrega de premios.
+Cada primavera muchos aficionados a las nusevas tecnologías esperan un evento de dos jornadas en torno a una competición de prototipos de barcos solares. Se celebra en uno de los sitios más emblemátivos de Palma de Mallorca, el Parc de la Mar. En el emblemático lago de agua salada frente a la catedrál de Palma.
+Esta competición está abierta principalmente a grupos de escolares y aficionados.Es una actividad alineada con los Objetivos de Desarrollo Sostenible de la agenda 2030 de la ONU y con la educación orientada STEM (Science Technology Engineering and Mathematics). 
 
 ### ¿En qué consiste?
-Será una **competición de embarcaciones no tripuladas impulsadas por energía solar** y cuyo gobierno se realiza mediante un sistema de control remoto o de forma completamente autónoma.
+Es una **competición de embarcaciones no tripuladas impulsadas por energía solar** y cuyo gobierno se realiza mediante un sistema de control remoto o de forma completamente autónoma.
 Estarán diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo. 
 [![Barco Victor](./images/regata_solar_barco.png)](https://youtu.be/HN6s5r-bW-M)
 
-Tienes toda la información e inscripciones en la [Web de la I Regata Solar de Balears](https://www.regatasolarbalears.org/)
+Tienes toda la información e inscripciones en la [Web de la Regata Solar de Balears](https://www.regatasolarbalears.org/)
 <br>
 
 <a href="https://www.regatasolarbalears.org/"><img src="./images/regata_solar_web.png" width="600" align="center" />
-
-La competición se celebraría en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
 >Es un proyecto alineado con los Objetivos de Desarrollo Sostenible de la agenda 2030 de la ONU y con la educación orientada STEM (Science Technology Engineering and Mathematics) tan necesaria en la actualidad, para garantizar el futuro de nuestros estudiantes y todas aquellas  personas que se quieran reciclar en estas materias, poniendo también el foco en conseguir equipos paritarios.
 <img src="./images/regata_solar_2030STEM.png" align="center" />
